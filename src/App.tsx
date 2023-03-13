@@ -5,4 +5,5 @@ export const App = () => {
     <AppContainer>
       Columns will go here
     </AppContainer>
+  )
 }
