@@ -38,7 +38,7 @@ type AddItemButtonProps = {
     dark?: boolean
 }
 
-export const AddItemButtonProps = styled.button<AddItemButtonProps>`
+export const AddItemButton = styled.button<AddItemButtonProps>`
     background-color: #ffffff3d;
     border-radius: 30x;
     border: none;
